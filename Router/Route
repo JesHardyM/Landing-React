@@ -1,0 +1,18 @@
+
+const Route = (path, component) => {
+    if (window.location.pathname === path) {
+        return component;
+    }
+}
+
+export default Route;
+
+
+/// import children elements 
+const Route = (path, children) => {
+    if (window.location.children === path) {
+        return children;
+    }
+}
+
+export default Route;
