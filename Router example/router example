@@ -1,4 +1,4 @@
-/*
+
 const Route = (path, component) => {
     if (window.location.pathname === path) {
         return component;
@@ -16,4 +16,3 @@ const Route = (path, children) => {
 }
 
 export default Route;
-*/
