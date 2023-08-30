@@ -7,7 +7,6 @@ import Person4 from '../assets/images/person4.png'
 
 
 
-
 function Profiles () {
       return (
   
